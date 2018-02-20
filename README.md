@@ -1,2 +1,2 @@
-# Bootstrap-SASS-Boilerplate
-Bootstrap-SASS-Boilerplate
+# sass-boilerplate
+Bootstrap SASS Boilerplate
